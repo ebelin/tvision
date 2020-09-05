@@ -31,6 +31,8 @@ compile_commands.json
 
 libtvision.a
 hello
+mmenu
+palette
 tvdemo
 tvdir
 tvedit
